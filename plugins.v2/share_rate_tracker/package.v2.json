@@ -1,0 +1,9 @@
+{
+  "name": "分享率追踪",
+  "description": "追踪并可视化馒头、CARPT、聆音、自由农场四个站点的分享率变化趋势",
+  "labels": "数据,站点",
+  "version": "1.0.0",
+  "icon": "https://raw.githubusercontent.com/jxxghp/MoviePilot-Plugins/main/icons/other.png",
+  "author": "Sisyphus",
+  "level": 1
+}
